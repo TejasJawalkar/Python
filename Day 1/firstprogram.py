@@ -1,0 +1,1 @@
+print("Hello this is my first program of python (i already know python basics but starting it again newly/freshly.)");
